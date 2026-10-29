@@ -1,6 +1,11 @@
 # Chapter & Co. — Independent Bookstore Events
 
 A responsive Independent Bookstore Events Page proof of concept. Built with semantic HTML5, CSS, and vanilla JavaScript.
+## Live Demo
+
+**Live Website:** https://prodesk-bookstore-event.netlify.app
+
+**GitHub Repository:** https://github.com/akshatsoni-2002/independent-bookstore-events
 
 ## Public website
 - The public homepage opens first. No login or account setup is required, because authentication is not specified in the supplied TRD.
