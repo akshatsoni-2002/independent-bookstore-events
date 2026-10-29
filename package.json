@@ -1,0 +1,14 @@
+{
+  "name": "chapter-co-independent-bookstore-events",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Independent Bookstore Events Page proof of concept",
+  "scripts": {
+    "check": "node --check script.js && node --check sw.js && node --check verify-project.cjs",
+    "verify": "node verify-project.cjs",
+    "lint": "eslint script.js sw.js verify-project.cjs"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
